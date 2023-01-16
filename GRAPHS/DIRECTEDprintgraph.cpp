@@ -1,4 +1,10 @@
 #include<iostream>
+#include<unordered_map>
+#include<list>
+#include<set>
+#include<vector>
+#include<queue>
+
 using namespace std;
 int main()
 {

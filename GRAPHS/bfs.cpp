@@ -3,7 +3,8 @@
 #include<list>
 #include<set>
 #include<vector>
-#include<queue>
+#include<stack>
+
 using namespace std;
 
 void  makeadjlist(unordered_map<int,set<int> >&adjlist,vector<pair<int,int> >edges)
